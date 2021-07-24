@@ -65,7 +65,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ### [AI_photoclip](https://github.com/haruple97/AI_photoclip)
 
@@ -90,6 +89,7 @@
 * **[깔끔한 게임 닉네임 생성 앱 '메이플 작명소'](https://github.com/haruple97/Maple_name_maker)**
 
 <br/>
+<br/>
 
 ## Activities
 
@@ -108,6 +108,7 @@
 - 활동 : Android 설치부터 개발 및 앱 출시까지 학부생들을 대상으로 강의 진행.
 - 성과 : 수강료
 
+<br/>
 <br/>
 
 ## Prizes
