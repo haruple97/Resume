@@ -6,7 +6,7 @@
 <img src = "https://user-images.githubusercontent.com/73948775/126858242-66e0c77f-b1dd-4685-913f-0afe2d110623.jpg" width="250px">
 
 
-저는 Android Architecture와 AI에 관심이 많습니다!:star:
+저는 Android App 개발에 관심이 많습니다!:star:
 - Email : ghfnrktl23@gmail.com
 - [GitHub](https://github.com/haruple97)
 - [Blog](https://haruple.tistory.com/)
